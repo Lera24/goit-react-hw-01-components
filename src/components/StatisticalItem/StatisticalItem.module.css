@@ -1,0 +1,15 @@
+.item {
+  color: white;
+  background-color: var(--dackorchid-color);
+  padding: 15px;
+  list-style-type: none;
+  border: 1px solid var(--black-color);
+}
+
+.label {
+  color: var(--white-color);
+  display: block;
+}
+.percentage {
+  color: var(--white-color);
+}

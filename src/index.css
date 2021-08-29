@@ -1,0 +1,39 @@
+@import-normalize;
+
+:root {
+  --lightblue-color: rgb(173, 216, 230);
+  --slategrey-color: rgb(112, 128, 144);
+  --cornflowerblue-color: rgb(100, 149, 237);
+  --white-color: rgb(255, 255, 255);
+  --grey-color: rgb(128, 128, 128);
+  --whitesmoke-color: rgb(245, 245, 245);
+  --green-color: rgb(0, 128, 0);
+  --red-color: rgb(255, 0, 0);
+  --black-color: rgb(0, 0, 0);
+  --dackorchid-color: rgb(153, 50, 204);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}

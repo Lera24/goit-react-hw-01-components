@@ -1,0 +1,31 @@
+.item {
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--grey-color);
+  flex-direction: column;
+  padding-top: 15px;
+}
+
+.status {
+  width: 10px;
+  height: 10px;
+  border-radius: 25px;
+  margin-bottom: 15px;
+}
+
+.active {
+  background-color: var(--green-color);
+}
+
+.inactive {
+  background-color: var(--red-color);
+}
+
+.name {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.avatar {
+  width: 48px;
+}

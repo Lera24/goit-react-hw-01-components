@@ -1,0 +1,10 @@
+.cell {
+  border: 1px solid var(--lightblue-color);
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background-color: var(--lightblue-color);
+  color: var(--slategrey-color);
+}
